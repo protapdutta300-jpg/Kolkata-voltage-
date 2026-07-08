@@ -7,8 +7,15 @@ http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/63525
 #EXTINF:-1 group-title="Kolkata Bangla" tvg-logo="logo",Jalsha movies HD
 http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/63524
 
+#EXTINF:-1 group-title="Kolkata Bangla" tvg-logo="logo",Jalsha movies
+http://103.151.60.162:2121/play/a00x/index.m3u8
+
+
 #EXTINF:-1 group-title="Kolkata Bangla" tvg-logo="logo",Jalsha movies HD
 http://180.94.28.28:8097//JALSHA-MOVIES/index.fmp4.m3u8
+
+#EXTINF:-1 group-title="Kolkata Bangla" tvg-logo="logo",Jalsha movies
+http://103.151.60.162:2121/play/a00x/index.m3u8
 
 #EXTINF:-1 group-title="Kolkata Bangla" tvg-logo="logo",Zee bangla HD
 http://180.94.28.28:8097//ZEE-BANGLA/index.fmp4.m3u8
@@ -261,6 +268,9 @@ https://cdn.ottlive.co.in/kolkatatv/index.m3u8
 
 #EXTINF:-1 group-title="Kolkata Bangla" tvg-logo="logo",Tv 9 bangla
 https://amg01448-samsungin-tv9bangla-samsungin-9lgnh.amagi.tv/playlist/amg01448-samsungin-tv9bangla-samsungin/playlist.m3u8
+
+
+
 
 
 

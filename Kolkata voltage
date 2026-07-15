@@ -77,6 +77,10 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/in
 #EXTINF:-1 group-title="Kolkata Bangla" tvg-logo="logo",Ruposhi bangla
 http://103.175.73.12:8080/live/664/664_0.m3u8
 
+#EXTINF:-1 group-title="Kolkata Bangla" tvg-logo="logo",RS Movie bangla
+http://103.121.61.218/tmp_hls/e07413354875be01a996dc560274708e/index.m3u8
+
+
 #EXTINF:-1 group-title="Kolkata Bangla" tvg-logo="logo",Amar bangla
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
 
@@ -268,9 +272,6 @@ https://cdn.ottlive.co.in/kolkatatv/index.m3u8
 
 #EXTINF:-1 group-title="Kolkata Bangla" tvg-logo="logo",Tv 9 bangla
 https://amg01448-samsungin-tv9bangla-samsungin-9lgnh.amagi.tv/playlist/amg01448-samsungin-tv9bangla-samsungin/playlist.m3u8
-
-
-
 
 
 
